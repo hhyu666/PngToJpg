@@ -26,7 +26,7 @@ def convert_png_to_jpg(input_path, output_path):
 
 
 # 设置输入和输出路径
-input_path = r"D:\BaiduNetdiskDownload\sd-webui-aki\sd-webui-aki-v4.1\outputs\Cyber_+"
+input_path = r"D:\BaiduNetdiskDownload\sd-webui-aki\sd-webui-aki-v4.1\outputs\batch-processing"
 output_path = r"D:\BaiduNetdiskDownload\sd-webui-aki\sd-webui-aki-v4.1\outputs\batch-processing"
 
 # 调用函数进行转换
