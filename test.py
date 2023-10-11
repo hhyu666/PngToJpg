@@ -1,8 +1,4 @@
-import os
 from PIL import Image
-
-import filecmp
-
 import os
 
 # 设置输入和输出路径
